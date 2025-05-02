@@ -23,7 +23,7 @@ The script defines the following keyboard shortcuts:
 
 ## 🚀 How to Use
 
-1. Install [AutoHotkey](https://www.autohotkey.com/).
+1. Install [AutoHotkey v2](https://www.autohotkey.com/).
 2. Clone this repository or copy the `.ahk` script.
 3. Double-click the script file to launch it.
 4. To auto-start it with Windows, place a shortcut to the script in the `shell:startup` folder.
