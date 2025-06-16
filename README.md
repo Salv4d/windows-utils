@@ -10,6 +10,7 @@ The script defines the following keyboard shortcuts:
 |--------------------|------------------------------------------------------------------------|
 | `Ctrl + Q`         | Closes the active window (equivalent to `Alt + F4`)                    |
 | `CapsLock`         | Acts as the left mouse button (`Left Click`)                           |
+| `Ctrl + CapsLock`  | Acts as the right mouse button (`Right Click`)                         |
 | `Alt + CapsLock`   | Preserves normal CapsLock behavior                                     |
 | `PrintScreen`      | Opens the Windows Snipping Tool (`Win + Shift + S`)                    |
 | `Ctrl + Alt + →`   | Switches to the next virtual desktop to the right                      |
