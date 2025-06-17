@@ -4,7 +4,7 @@
 
 !CapsLock::CapsLock  ; Alt + CapsLock keeps the default CapsLock behavior
 CapsLock::LButton        ; CapsLock alone behaves as the left mouse button
-^CapsLock::RButton        ; Ctrl+CapsLock behaves as the right mouse button
++CapsLock::RButton        ; Shift+CapsLock behaves as the right mouse button
 
 PrintScreen::Send("#{Shift down}s#{Shift up}")  ; PrintScreen opens the Windows snipping tool (Win + Shift + S)
 
